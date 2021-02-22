@@ -3,4 +3,4 @@
 
 Repositório criado durante uma aula do canal Curso em Vídeo
 
-Adicionei essa linha direto do site GitHub
+Adicionei essa linha direto do site do GitHub
